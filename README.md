@@ -5,5 +5,7 @@ This repo contains exercises and projects related to Dave Gray's [JavaScript Ful
 - js-2 - Link JavaScript to HTML
 - js-3 - Strings
 - js-4 - Numbers
+- js-5 - Math Object
+- js-6 - Code Challenge
 
 

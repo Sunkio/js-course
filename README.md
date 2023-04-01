@@ -7,5 +7,6 @@ This repo contains exercises and projects related to Dave Gray's [JavaScript Ful
 - js-4 - Numbers
 - js-5 - Math Object
 - js-6 - Code Challenge
-
-
+- js-7 - if Statements
+- js-8 - Switch Statements
+- js-9 - Ternary Operator

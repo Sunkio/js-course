@@ -5,7 +5,6 @@ function js11 ()
 
     let playGame = confirm("Shall we play Rock, Paper, Scissors?");
     if (playGame) {
-        // play the game
         let playerChoice = prompt("Choose Rock, Paper, or Scissors");
         if (playerChoice) {
             let playerOne = playerChoice.trim().toLowerCase();

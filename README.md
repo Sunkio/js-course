@@ -12,3 +12,6 @@ This repo contains exercises and projects related to Dave Gray's [JavaScript Ful
 - js-9 - Ternary Operator
 - js-10 - User Input
 - js-11 - Your First Game
+- js-12 - Loops
+- js-13 - Functions
+- js-14 - Scope: var, let, const
